@@ -3,9 +3,7 @@
 - :zap: Aprendiendo React.
 <br/>
 
-
-![Agustin GitHub stats]()
-<i class="devicon-react-original colored"></i>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarrizoagustin&theme=radical)](https://github.com/jcarrizoagustin/github-readme-stats)
 
 <div>
   
