@@ -1,8 +1,5 @@
 ## Hola :wave:, soy Agustin. Programador Web.
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarrizoagustin&theme=radical)](https://github.com/jcarrizoagustin/github-readme-stats)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
